@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joey-Zee
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ... React Native
 - 💞️ I’m looking to collaborate on ... Wordpress, PHP or CodeIgniter projects.
 - 📫 How to reach me ... joeyz.dev@gmail.com
 
